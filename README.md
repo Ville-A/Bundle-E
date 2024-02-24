@@ -21,6 +21,9 @@ Weight: 29-36kg
     - Life span: 10-12 years
         - Origin: United Kingdom ![UK Flag](https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg)
 
+
+
+
 ## German Shepherd
 
 ![German Shepherd](./src/photos/GermanShepherd.jpg)
@@ -31,6 +34,9 @@ Weight: 30-40kg
     - Life span: 10+ years
         - Origin: Germany ![Germany Flag](https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg)
 
+
+
+
 ## Golden Retriever
 
 ![Golden Retriever](./src/photos/GoldenRetriever.jpg)
@@ -40,6 +46,9 @@ Golden Retrievers are loyal and affectionate family pets.
 Weight: 25-34kg
     - Life span: 12-13 years
         - Origin: Scotland ![Scotland Flag](https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg)
+
+
+
 
 ## Contact Information
 

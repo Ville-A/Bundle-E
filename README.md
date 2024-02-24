@@ -19,7 +19,7 @@ Labrador Retrievers are known for their friendly and outgoing nature.
 
 Weight: 29-36kg
     - Life span: 10-12 years
-        - Origin: United Kingdom ![UK Flag](https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg)
+        - Origin: United Kingdom ![UK Flag](https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg){:width="25px"}
 
 ## German Shepherd
 
@@ -29,7 +29,7 @@ German Shepherds are intelligent and versatile working dogs.
 
 Weight: 30-40kg
     - Life span: 10+ years
-        - Origin: Germany ![Germany Flag](https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg)
+        - Origin: Germany ![Germany Flag](https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg){:width="25px"}
 
 ## Golden Retriever
 
@@ -39,4 +39,8 @@ Golden Retrievers are loyal and affectionate family pets.
 
 Weight: 25-34kg
     - Life span: 12-13 years
-        - Origin: Scotland ![Scotland Flag](https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg)
+        - Origin: Scotland ![Scotland Flag](https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg){:width="25px"}
+
+Thank you for visiting my website! Please check the box below to indicate that you've read the content.
+
+- [ ] I have read the site
